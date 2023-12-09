@@ -1,6 +1,6 @@
 # MapUp-Assessment
 Submission structure
-There should be a folder named submissions in the root of your repository. This folder should contain the following:
+Folder named submissions contain the following:
 
 📂 submissions
 📄 python_task_1.py
